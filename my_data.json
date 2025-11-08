@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "무선 키보드",
+      "category": "전자기기",
+      "price": 39000,
+      "inven": 120,
+      "rating": 4.3
+    },
+    {
+      "id": "2",
+      "name": "요가 매트",
+      "category": "운동용품",
+      "price": 21000,
+      "inven": 75,
+      "rating": 4.7
+    },
+    {
+      "id": "3",
+      "name": "블루투스 이어폰",
+      "category": "오디오",
+      "price": 58000,
+      "inven": 60,
+      "rating": 4.4
+    },
+    {
+      "id": "4",
+      "name": "머그컵",
+      "category": "주방용품",
+      "price": 13000,
+      "inven": 200,
+      "rating": 4.1
+    },
+    {
+      "id": "5",
+      "name": "책상 정리함",
+      "category": "사무용품",
+      "price": 26000,
+      "inven": 90,
+      "rating": 4.5
+    },
+    {
+      "id": "6",
+      "name": "러닝화",
+      "category": "운동화",
+      "price": 89000,
+      "inven": 40,
+      "rating": 4.8
+    },
+    {
+      "id": "7",
+      "name": "백팩",
+      "category": "가방",
+      "price": 57000,
+      "inven": 55,
+      "rating": 4.6
+    },
+    {
+      "id": "8",
+      "name": "테이블 조명",
+      "category": "조명",
+      "price": 32000,
+      "inven": 85,
+      "rating": 4.2
+    },
+    {
+      "id": "9",
+      "name": "보조 배터리",
+      "category": "액세서리",
+      "price": 44000,
+      "inven": 110,
+      "rating": 4.4
+    },
+    {
+      "id": "10",
+      "name": "물병",
+      "category": "아웃도어",
+      "price": 21000,
+      "inven": 65,
+      "rating": 4.0
+    }
+  ]
+}
